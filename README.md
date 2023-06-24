@@ -10,3 +10,8 @@ This is a fully **Responsive E-Commerce website called RedStore** that has all t
 8. User-friendly and good experience
 
 To view the website use the link: https://sreenidhiks8.github.io/E-Commerce-Website/
+<br>
+<br>
+<img width="347" alt="image" src="https://github.com/Sreenidhiks8/E-Commerce-Responsive-Website-/assets/96244469/74c69bc2-baf6-49a4-90f5-bcd6ac3e8b5e">
+<img width="390" alt="image" src="https://github.com/Sreenidhiks8/E-Commerce-Responsive-Website-/assets/96244469/d768acbf-fb08-4453-9a15-2ad372ee6836">
+![pic7](https://github.com/Sreenidhiks8/E-Commerce-Responsive-Website-/assets/96244469/727d9b1f-b56b-4cd4-94dc-c4212b9f7e06)
